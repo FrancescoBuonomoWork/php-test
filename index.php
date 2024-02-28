@@ -5,5 +5,5 @@
 ?>
 
 <h1>Ciao mondo!!</h1>
-<p>Mi chiamo <? echo $name ?></p>
+<p>Mi chiamo <php? echo $name ?></p>
 

@@ -1,7 +1,6 @@
 <?php
    $name = "Francesco";
 
-
 ?>
 
 <h1>Ciao mondo!!</h1>
